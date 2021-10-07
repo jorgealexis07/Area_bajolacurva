@@ -1,0 +1,5 @@
+/home/alexis/Documentos/Area_bajolacurva/Area_bajolacurva/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alexis/Documentos/Area_bajolacurva/Area_bajolacurva/bin/Debug/Area_bajolacurva.exe.mdb
+/home/alexis/Documentos/Area_bajolacurva/Area_bajolacurva/bin/Debug/Area_bajolacurva.exe
+/home/alexis/Documentos/Area_bajolacurva/Area_bajolacurva/obj/x86/Debug/Area_bajolacurva.exe
+/home/alexis/Documentos/Area_bajolacurva/Area_bajolacurva/obj/x86/Debug/Area_bajolacurva.exe.mdb
